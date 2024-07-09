@@ -33,7 +33,7 @@
                 >label{
                     font: 400 1.2rem $text1;
                     width: 20%;
-                    margin: 0 1rem;
+                    // margin: 0 1rem;
                 }
                 >input{
                     align-self: stretch;
@@ -42,6 +42,7 @@
                     border-radius: 5px;
                     border: 1px solid rgba(121,123,123,0.6);
                     outline: none;
+                    margin: 0 0 0 1rem;
                 }
             }
 
